@@ -51,13 +51,13 @@ stack(
 
 
   // Drone / tanpura-like bed
-  note("[c3,g3,c4]*2")
-    .s("sawtooth")
-    .legato(1.8)
-    .attack(0.4)
-    .release(1.2)
-    .lpf(900)
-    .lpq(3)
-    .room(0.8)
-    .gain(0.16)
+  // note("[c3,g3,c4]*2")
+  //   .s("sawtooth")
+  //   .legato(1.8)
+  //   .attack(0.4)
+  //   .release(1.2)
+  //   .lpf(900)
+  //   .lpq(3)
+  //   .room(0.8)
+  //   .gain(0.16)
 )
